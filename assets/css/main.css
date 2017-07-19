@@ -1552,7 +1552,7 @@
 /* Basic */
 
 	body {
-		background: url("images/squadWP.jpg") no-repeat fixed 100% 100%
+		background: url("../../images/squadWP.jpg") no-repeat fixed 100% 100%
 	}
 
 	body, input, select, textarea {
@@ -2601,7 +2601,7 @@
 /* One */
 
 	#one:before {
-		background-image: url("XprtTactical.github.io/images/banner.jpg");
+		background-image: url("../../images/banner.jpg");
 		background-position: top right;
 		background-repeat: no-repeat;
 		background-size: cover;
